@@ -7,10 +7,10 @@ Para instalar las dependencias:
 npm install
 ``
 
-Para arrancar iniciar el proyecto:
+Para iniciar el proyecto:
 ``
 npm start
 ``
 
 ### Web de ejemplo:
-[Curriculum - Edder Silva](http://oncemono.com/curriculum/edder_silva/)
+[Curriculum - Edder Silva](http://oncemono.com/curriculum/EdderSilva/)
