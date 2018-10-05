@@ -1,8 +1,8 @@
 import React from 'react';
 
 const Footer = props => 
-    <footer class="footer">
-        <div class="content has-text-centered">
+    <footer className="footer">
+        <div className="content has-text-centered">
             <p>Esta página fue creada con</p>
             <p>
                 <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank" className="link is-info"><b><i className="fab fa-react is-size-5" ></i>  React.js</b></a>
