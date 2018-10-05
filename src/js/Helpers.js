@@ -13,7 +13,7 @@ class Helpers {
                 saludo = "buenas noches";
             } else if (date.getHours() > 11) {
                 saludo = "buenas tardes";
-            } else if (date.getHours() > 6) {
+            } else if (date.getHours() > 5) {
                 saludo = "buenos días";
             } else { saludo = "vaya hora"; }
             return saludo;
